@@ -1,2 +1,2 @@
 # Streamlit
-Repository on basics of streamlit
+Repository containing simple streamlit applications
